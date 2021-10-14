@@ -1,5 +1,8 @@
 ### Hi I'm Elvis Bonilla 👋
 
+🔭 I’m currently working on 
+ - Classroom Project
+ - Learn about algorithms and data structures
 <!--
 **elvisdbl/elvisdbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
