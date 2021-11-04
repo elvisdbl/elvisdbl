@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on 
  - Classroom Project
+ - Movies Project
 <!--
 **elvisdbl/elvisdbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
