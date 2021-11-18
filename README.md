@@ -1,8 +1,12 @@
 ### Hi I'm Elvis Bonilla 👋
 
-🔭 I’m currently working on 
+🔭 I’m currently working on...
  - Classroom Project
  - Movies Project
+
+🌱 I’m currently learning...
+ - Graphql
+ - algorithms and data structures
 <!--
 **elvisdbl/elvisdbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
