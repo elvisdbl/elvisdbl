@@ -28,7 +28,7 @@ Here are a few of my favorite projects:
 
 - [Movies App](https://github.com/elvisdbl/movies-app) - A web application built with React and Node.js
 - [Marketing Webpage](https://github.com/elvisdbl/marketing-business) - A web application built with React and Node.js
-- [Project C](https://github.com/elvisdbl/classroom-backend) - A backend built with Node.js and Prisma
+- [Classroom](https://github.com/elvisdbl/classroom-backend) - A backend built with Node.js and Prisma
 
 Feel free to explore my repositories and contribute to any projects that interest you!
 
