@@ -16,7 +16,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Others**: Git, REST, GraphQL, Agile
 
 ## 📈 GitHub Stats
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvisdbl&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
+Here are some insights into my GitHub activity:
+
+![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvisdbl&show_icons=true&theme=radical&hide=contribs&count_private=true&include_all_commits=true)
+
+<!-- ### 🏆 GitHub Trophies
+![Elvis's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elvisdbl&theme=radical) -->
+
+### 🔥 Streak Stats
+![Elvis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisdbl&theme=radical)
 
 ## 📫 Get in Touch
 - LinkedIn: [Elvis Bonilla](https://www.linkedin.com/in/elvisdbl/)
