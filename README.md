@@ -23,8 +23,8 @@ Here are some insights into my GitHub activity:
 <!-- ### 🏆 GitHub Trophies
 ![Elvis's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elvisdbl&theme=radical) -->
 
-### 🔥 Streak Stats
-![Elvis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisdbl&theme=radical)
+<!-- ### 🔥 Streak Stats
+![Elvis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisdbl&theme=radical) -->
 
 ## 📫 Get in Touch
 - LinkedIn: [Elvis Bonilla](https://www.linkedin.com/in/elvisdbl/)
